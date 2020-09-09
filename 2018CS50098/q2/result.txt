@@ -1,0 +1,20 @@
++ 3 0 3
+* +5 -6 -30
+invalid_input
+/ 22 7 3
+invalid_input
+/ 22 7 3
+invalid_input
+/ 22 7 3
+/ 22 7 3
+/ 22 7 3
++ 2 3 5
+- 6 4 2
+* 5 2 10
+* + 2 3 - 6 4 10
+* + 2 3 - 6 2 20
++ 1 4 5
+invalid_input
+- 4 5 -1
+invalid_input
+* 3 7 21
